@@ -4,25 +4,6 @@
     <title>Categories on Ali Raza</title>
     <link>https://blog.0xali.com/categories/</link>
     <description>Recent content in Categories on Ali Raza</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 Oct 2022 23:11:16 +0000</lastBuildDate><atom:link href="https://blog.0xali.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>https://blog.0xali.com/categories/test/</link>
-      <pubDate>Mon, 31 Oct 2022 23:11:16 +0000</pubDate>
-      
-      <guid>https://blog.0xali.com/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test2</title>
-      <link>https://blog.0xali.com/categories/test2/</link>
-      <pubDate>Mon, 31 Oct 2022 23:11:16 +0000</pubDate>
-      
-      <guid>https://blog.0xali.com/categories/test2/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://blog.0xali.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
