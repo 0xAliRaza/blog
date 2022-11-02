@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ali Raza</title>
-    <link>https://blog.0xali.com/</link>
-    <description>Recent content on Ali Raza</description>
+    <title>Humans on Ali Raza</title>
+    <link>https://blog.0xali.com/tags/humans/</link>
+    <description>Recent content in Humans on Ali Raza</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Nov 2022 00:53:04 +0000</lastBuildDate><atom:link href="https://blog.0xali.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:53:04 +0000</lastBuildDate><atom:link href="https://blog.0xali.com/tags/humans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>If Only I Could Change This One Thing...</title>
       <link>https://blog.0xali.com/posts/if-only-i-could-change/</link>
@@ -14,8 +14,6 @@
       <guid>https://blog.0xali.com/posts/if-only-i-could-change/</guid>
       <description>In short, I want to be completely alone but my brain goes bonkers when I do so. I hate that so I&amp;#39;m gonna rant about it here 😛.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
